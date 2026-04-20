@@ -55,6 +55,7 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 ## Employee
 <img width="1271" height="958" alt="image" src="https://github.com/user-attachments/assets/297a6808-5f30-4568-998a-e62c4bf6df11" />
+
 ## Weather
 <img width="1271" height="961" alt="image" src="https://github.com/user-attachments/assets/af0f1ad7-8941-4767-80cc-253cf9bc510d" />
 
@@ -81,6 +82,7 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 ## Employee
 <img width="1265" height="964" alt="image" src="https://github.com/user-attachments/assets/8274288c-c22a-4aee-ac3f-f3689d25efa0" />
+
 ## Weather
 <img width="1273" height="963" alt="image" src="https://github.com/user-attachments/assets/a4b0ba02-24cd-4fc3-9d1b-6b0fda0f8842" />
 
@@ -102,6 +104,7 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 ## Employee
 <img width="1268" height="955" alt="image" src="https://github.com/user-attachments/assets/e94d03c6-3dcd-4e54-b97e-33b0db32b1ff" />
+
 ## Weather
 <img width="1262" height="951" alt="image" src="https://github.com/user-attachments/assets/bb796d52-4b8d-4484-8204-f1f6d4240e35" />
 
@@ -123,6 +126,7 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 ## Employee
 <img width="1261" height="953" alt="image" src="https://github.com/user-attachments/assets/47c6e4de-c897-4607-a9d6-7280f3479dd0" />
+
 ## Weather
 <img width="1267" height="959" alt="image" src="https://github.com/user-attachments/assets/b77d8521-063b-4360-a61a-cb673e462797" />
 
